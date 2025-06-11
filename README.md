@@ -7,7 +7,7 @@
 <h1 align="center">Hi there, I’m Ry! 🌼</h1>
 
 <p align="center">
-  💻 Coding in <strong>Java, Python, and MySQL</strong>  
+  💻 <strong> HTML | CSS| |PHP | Java | Python | MySQL</strong>  
   <br>📚 Studying <strong>Computer Science specialized in Machine Learning</strong> at <strong>National University - Manila</strong>  
 </p>
 
