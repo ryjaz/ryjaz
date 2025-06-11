@@ -1,4 +1,9 @@
-<h1 align="center" style="color:#D4A373;">Hey there, I’m Rynel! 🌼</h1> 
+<!-- 🎉 Banner Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryjaz/your-repo-name/main/assets/rybanner.gif" alt="Rynel Banner" width="1000" height="300">
+</p>
+
+<h1 align="center" style="color:#D4A373;">Hey there, I’m Rynel! 🌼</h1>
 
 <p align="center" style="color:#B08968;">
   ✨ A passionate <strong>developer & creative</strong> who loves turning ideas into reality!  
