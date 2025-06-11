@@ -46,7 +46,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=flat&no-frame=false&no-bg=true&margin-w=4&title=Goldenrod&text=D4A373">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryjaz&theme=flat&no-frame=false&no-bg=true&margin-w=4&title=Goldenrod&text=D4A373">
 </p>
 
 ---
