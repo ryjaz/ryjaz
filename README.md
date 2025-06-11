@@ -35,11 +35,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&bg_color=F5F5DC&title_color=D4A373&text_color=8B6B42&icon_color=D4A373">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryjaz&show_icons=true&bg_color=F5F5DC&title_color=D4A373&text_color=8B6B42&icon_color=D4A373">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=beige&hide_border=false&ring=D4A373&fire=E5C07B&sideNums=C5A770">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryjaz&theme=beige&hide_border=false&ring=D4A373&fire=E5C07B&sideNums=C5A770">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&theme=default&hide_border=false&bg_color=F5F5DC&title_color=D4A373&text_color=8B6B42&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryjaz&theme=default&hide_border=false&bg_color=F5F5DC&title_color=D4A373&text_color=8B6B42&layout=compact">
 </p>
 
 ---
