@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi there, I’m Ry! 🌼</h1>
+<h1 align="center">Hi there, I’m Ry! 🍀</h1>
 
 <p align="center">
   💻 <strong> Java | MySQL</strong>  
