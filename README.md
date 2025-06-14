@@ -7,7 +7,7 @@
 <h1 align="center">Hi there, I’m Ry! 🍀</h1>
 
 <p align="center">
-  💻 <strong> Java | MySQL</strong>  
+  ⚪ <strong> Java | MySQL</strong>  
   <br>📚 Studying <strong>Computer Science specialized in Machine Learning</strong> at <strong>National University - Manila</strong>  
 </p>
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## ⚪ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryjaz&show_icons=true&bg_color=F5F5DC&title_color=D4A373&text_color=8B6B42&icon_color=D4A373">
   <br><br>
@@ -47,14 +47,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚪ GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryjaz&theme=flat&no-frame=false&no-bg=true&margin-w=4&title=Goldenrod&text=D4A373">
 </p>
 
 ---
 
-## ✍️ Dev Quote
+## ⚪ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
 </p>
