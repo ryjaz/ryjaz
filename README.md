@@ -8,12 +8,12 @@
 
 <p align="center">
   ⚪ <strong> Java | MySQL</strong>  
-  <br>📚 Studying <strong>Computer Science specialized in Machine Learning</strong> at <strong>National University - Manila</strong>  
+  <br>⚪ Studying <strong>Computer Science specialized in Machine Learning</strong> at <strong>National University - Manila</strong>  
 </p>
 
 ---
 
-## 🔗 Connect with Me:
+## ⚪ Connect with Me:
 <p align="center">
   <a href="https://instagram.com/jazminnnrrr">
     <img src="https://img.shields.io/badge/Instagram-B08968?logo=instagram&logoColor=white&style=for-the-badge">
@@ -25,7 +25,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## ⚪ Tech Stack:
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" title="Java"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL">
